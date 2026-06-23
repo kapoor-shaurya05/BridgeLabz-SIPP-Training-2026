@@ -10,7 +10,7 @@ public class DistanceConverter {
         double yards = distanceInFeet / 3;
         double miles = yards / 1760;
 
-        System.out.println("Distance in yards is " + yards);
+        System.out.println("Distance in yards is3 " + yards);
         System.out.println("Distance in miles is " + miles);
 
         input.close();
