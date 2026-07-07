@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f7eeae17-fefe-4318-a5a1-24d170581773" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Collection Frameworks/AddressBook/AdressBookData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Collection Frameworks/AddressBook/AdressBookMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Collection Frameworks/AddressBook/Contacts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting/BubbleSortMarks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting/EmployeeAttendanceRanking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting/InsertionSortEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting/SelectionSortScores.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
