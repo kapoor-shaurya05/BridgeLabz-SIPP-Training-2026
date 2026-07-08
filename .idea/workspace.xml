@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f7eeae17-fefe-4318-a5a1-24d170581773" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Binary Search/BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,11 +42,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\BridgeLabz-SIPP-Training-2026\Binary Search\Q1BinarySearch" />
       <recent name="E:\BridgeLabz-SIPP-Training-2026\Collection Frameworks\AddressBook" />
       <recent name="E:\BridgeLabz-SIPP-Training-2026\Collection Frameworks" />
       <recent name="E:\BridgeLabz-SIPP-Training-2026\Scenario-based" />
       <recent name="E:\BridgeLabz-SIPP-Training-2026\oops-practice\Scenario-based\OOPS Fundamentals" />
-      <recent name="E:\BridgeLabz-SIPP-Training-2026\core-java-practice\gcr-codebase\Methods\Level-1" />
     </key>
   </component>
   <component name="RunManager">
