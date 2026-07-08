@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f7eeae17-fefe-4318-a5a1-24d170581773" name="Changes" comment="" />
+    <list default="true" id="f7eeae17-fefe-4318-a5a1-24d170581773" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Efficient Sorting/CustomerOrderValues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Efficient Sorting/EmployeeSalaries.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
