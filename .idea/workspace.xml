@@ -3,16 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f7eeae17-fefe-4318-a5a1-24d170581773" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hashing/DuplicateToken.java" beforeDir="false" afterPath="$PROJECT_DIR$/Hashing/DuplicateToken.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hashing/GroupAnagrams.java" beforeDir="false" afterPath="$PROJECT_DIR$/Hashing/GroupAnagrams.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hashing/LongestConsequtive.java" beforeDir="false" afterPath="$PROJECT_DIR$/Hashing/LongestConsequtive.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hashing/MostFrequentElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/Hashing/MostFrequentElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hashing/SubarraySumEqualsK.java" beforeDir="false" afterPath="$PROJECT_DIR$/Hashing/SubarraySumEqualsK.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hashing/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/Hashing/TwoSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Queue/HospitalER.java" beforeDir="false" afterPath="$PROJECT_DIR$/Queue/HospitalER.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Queue/PacketBuffer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Queue/PacketBuffer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Queue/PrintQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/Queue/PrintQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Queue/SlidingWindowMaximum.java" beforeDir="false" afterPath="$PROJECT_DIR$/Queue/SlidingWindowMaximum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
