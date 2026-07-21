@@ -84,3 +84,56 @@ This repository contains all the assignments completed during the **BridgeLabz T
 
 ---
 
+## Repository Structure
+
+```
+BridgeLabz-SIPP-Training-2026
+│
+├── core-java-practice
+│   ├── Programming Elements
+│   ├── Control Flow
+│   ├── Arrays
+│   ├── Strings
+│   ├── Methods
+│   ├── Recursion
+│   └── Exception Handling
+│
+├── oops-practice
+│   ├── OOPS Fundamentals
+│   ├── Encapsulation & Abstraction
+│   ├── Inheritance
+│   ├── Interfaces
+│   └── Polymorphism
+│
+├── DSA-practice
+│   ├── Collection Frameworks
+│   ├── Sorting
+│   ├── Efficient Sorting
+│   ├── Binary Search
+│   ├── TwoPointers-SlidingWindow
+│   ├── Generics
+│   ├── Stack
+│   ├── Queue
+│   ├── Hashing
+│   ├── LinkedList
+│   ├── Trees
+│   ├── BST
+│   ├── Heaps
+│   └── Graphs
+│
+├── DBMS
+│   ├── dbms-practice-1.sql
+│   ├── dbms-practice-2.sql
+│   └── dbms-practice-3.sql
+│
+└── README.md
+```
+
+---
+
+## Notes
+
+- Assignments are organized branch-wise.
+- Each assignment has been submitted through GitHub commits.
+- Submission dates are maintained for review purposes.
+- The repository is updated regularly throughout the BridgeLabz SIPP Training Program.
