@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f7eeae17-fefe-4318-a5a1-24d170581773" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Heaps/BuildHeap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Heaps/EmergencyRoom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Heaps/HeapSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Heaps/KthLargestElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Heaps/MergeKSortedLogs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Heaps/TopKLargestElements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f7eeae17-fefe-4318-a5a1-24d170581773" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
