@@ -71,6 +71,7 @@ This repository contains all the assignments completed during the **BridgeLabz T
 | 12 | Binary Search Tree | 18/07/2026 |
 | 13 | Heaps | 21/07/2026 |
 | 14 | Graphs | 22/07/2026 |
+| 15 | Recursion & Backtracking | 24/07/2026 |
 
 ---
 
@@ -81,6 +82,8 @@ This repository contains all the assignments completed during the **BridgeLabz T
 | 1 | DBMS Practice - 1 | 05/07/2026 |
 | 2 | DBMS Practice - 2 | 07/07/2026 |
 | 3 | DBMS Practice - 3 | 09/07/2026 |
+| 4 | DBMS Practice - 4 | 22/07/2026 |
+| 5 | DBMS Practice - 5 | 24/07/2026 |
 
 ---
 
@@ -120,11 +123,15 @@ BridgeLabz-SIPP-Training-2026
 │   ├── BST
 │   ├── Heaps
 │   └── Graphs
+│   └── recursion & Backtracking 
 │
 ├── DBMS
 │   ├── dbms-practice-1.sql
 │   ├── dbms-practice-2.sql
 │   └── dbms-practice-3.sql
+│   └── dbms-practice-4.sql
+│   └── sql-practice-5.sql
+│   └── sql-practice-6.sql
 │
 └── README.md
 ```
