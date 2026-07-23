@@ -50,11 +50,9 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\BridgeLabz-SIPP-Training-2026\Binary Search\Q1BinarySearch" />
-      <recent name="E:\BridgeLabz-SIPP-Training-2026\Collection Frameworks\AddressBook" />
-      <recent name="E:\BridgeLabz-SIPP-Training-2026\Collection Frameworks" />
       <recent name="E:\BridgeLabz-SIPP-Training-2026\Scenario-based" />
       <recent name="E:\BridgeLabz-SIPP-Training-2026\oops-practice\Scenario-based\OOPS Fundamentals" />
+      <recent name="E:\BridgeLabz-SIPP-Training-2026\core-java-practice\gcr-codebase\Methods\Level-1" />
     </key>
   </component>
   <component name="RunManager">
@@ -91,5 +89,16 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
